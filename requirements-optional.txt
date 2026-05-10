@@ -1,0 +1,3 @@
+# Optional packages that may require additional build tooling depending on platform/Python.
+maigret
+theharvester
